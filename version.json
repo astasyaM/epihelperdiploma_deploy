@@ -5,7 +5,7 @@
     "buildDate":  "2026-06-06",
     "buildId":  "1.0.0+1",
     "apkFileName":  "episvyaz-release.apk",
-    "apkUrl":  "https://github.com/astasyaM/epihelperdiploma_deploy/releases/download/v1.0.0/episvyaz-release.apk",
+    "apkUrl":  "https://github.com/astasyaM/epihelperdiploma_deploy/releases/download/v1.0.1/episvyaz-release.apk",
     "apkSizeBytes":  97641315,
     "sha256":  "f9a5dce47ea8923d8dd331435fe5977b6215c61d41c42f111719a8df641e3d80",
     "releaseNotes":  "Первая стабильная сборка для пилотного развёртывания.",
